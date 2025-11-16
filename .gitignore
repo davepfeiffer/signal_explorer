@@ -1,4 +1,8 @@
-
+compile_commands.json
 build/
 *.csv
+*.exe
+imgui.ini
+.cache/
+sig_exp
 
