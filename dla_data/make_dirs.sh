@@ -1,0 +1,8 @@
+mkdir 6_75mhz_data
+mkdir 3_375mhz_data
+mkdir 1_6875mhz_data
+mkdir 0_84375mhz_data
+mkdir 0_421875mhz_data
+mkdir 0_2109375mhz_data
+mkdir 0_10546875mhz_data
+mkdir 0_052734375mhz_data

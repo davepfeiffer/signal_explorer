@@ -1,0 +1,18 @@
+[submodule "libaries/glfw"]
+	path = libaries/glfw
+	url = https://github.com/glfw/glfw
+[submodule "libaries/implot"]
+	path = libaries/implot
+	url = https://github.com/epezent/implot.git
+[submodule "libaries/imgui"]
+	path = libaries/imgui
+	url = https://github.com/ocornut/imgui.git
+[submodule "libaries/argparse"]
+	path = libaries/argparse
+	url = https://github.com/p-ranav/argparse.git
+[submodule "libaries/spdlog"]
+	path = libaries/spdlog
+	url = https://github.com/gabime/spdlog.git
+[submodule "libaries/stb"]
+	path = libaries/stb
+	url = https://github.com/nothings/stb.git
