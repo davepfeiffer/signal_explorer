@@ -52,3 +52,14 @@ Here is a screenshot when running the `./sig_exp --input dla_data/0_84375mhz_dat
 
 ![The program when run on real world SPI data captured via a DLA](assets/example.png)
 
+In the above screenshot some interesting things to note:
+
+- The top signal is a (messy) sinc wave in the frequency domain which is exactly what
+  you'd expect from a digital clock
+
+- There is a lot of power in the DC / low frequency buckets from the long sampling without a signal present
+
+- The signal carrying the data doesn't really look like anything in the frequency domain
+
+- The floating input line has some low power interference on it that looks like the clock
+
